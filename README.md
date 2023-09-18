@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/NgoziDuru/Sentinel-Lab)
+  - [Azure Detection Lab] (https://github.com/NgoziDuru/Azure-Detection-Project/edit/main/README.md)
  
   - [Active Directory Bulk User Creation](https://github.com/NgoziDuru/AD_PS)
  
