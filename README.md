@@ -10,8 +10,8 @@
 
 <h2>📺 my Demonstration Videos</h2>
 
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
+- [Azure Detection Project (C#)](https://drive.google.com/file/d/15Yy3JxFHYsPoA2NK2h7znp7KdjujCiWp/view?usp=drive_web)
+- [Failed RDP Login (C#)](https://drive.google.com/file/d/1lm7DjW8D_Gmt92AlYILLrnhhjF1l9aC7/view?usp=drive_web)
 
 <h2> 🤳 Connect with me:</h2>
 
