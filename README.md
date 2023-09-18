@@ -6,7 +6,7 @@
  
   - [Active Directory Bulk User Creation](https://github.com/NgoziDuru/AD_PS)
  
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 my certifications</h2>
 
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
@@ -17,7 +17,7 @@
 [<img align="left" alt="ngoziduru | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [instagram]: https://www.instagram.com/ngoziduru_/
-[linkedin]: https://linkedin.com/in/ngoziduru
+[linkedin]: https://linkedin.com/in/Ngozi Duru
 
 <!--
 **ngoziduru/ngoziduru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
