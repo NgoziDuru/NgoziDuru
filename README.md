@@ -7,6 +7,7 @@
   - [Active Directory Bulk User Creation](https://github.com/NgoziDuru/AD_PS)
  
 <h2>📺 my certifications</h2>
+https://i.imgur.com/nLT8Sda.jpg
 
 <h2>📺 my Demonstration Videos</h2>
 
