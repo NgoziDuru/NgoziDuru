@@ -4,7 +4,7 @@
 
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/NgoziDuru/Failed-RDP-Logins))
   - [Azure Detection Lab] (https://github.com/NgoziDuru/Azure-Detection-Project)
-  - [Active Directory Bulk User Creation](https://github.com/NgoziDuru/AD_PS)
+  - [Active Directory/Domain controller Creation](https://github.com/NgoziDuru/AD_PS)
  
 <h2>📺 my certifications</h2>
     [Qualys Vulnerability Management Dectection And Response ] (https://i.imgur.com/nLT8Sda.jpg)
